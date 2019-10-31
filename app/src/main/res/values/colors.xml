@@ -65,6 +65,8 @@
     <color name="charcoalDark">#222222</color>
     <color name="charcoalLight">#333333</color>
     <color name="black">#000</color>
+    <color name="blackDesaturatedDark">#000</color>
+	<color name="blackHighlight">#000</color>
     <color name="gray8">#888888</color>
     <color name="olive">#7B8F5A</color>
     <color name="oliveDesaturated">#889E64</color>

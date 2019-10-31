@@ -142,6 +142,15 @@
         <item name="themeDrawerImageFilter">@color/drawerFilterAzure</item>
     </style>
 
+    <style name="Black" parent="Light">
+        <item name="themeAccent">@color/Black</item>
+        <item name="themeTextTertiary">@color/blackDesaturatedDark</item>
+        <item name="themeTextHandle">@color/blackDesaturatedDark</item>
+        <item name="themeTextHighlight">@color/blackHighlight</item>
+        <item name="themeNoteColorBar">@color/blackDesaturatedDark</item>
+        <item name="themeDrawerItemSelectedBackground">@color/blackHighlight</item>
+    </style>
+
     <style name="Sage" parent="Light">
         <item name="themeStatusBar">@color/sage</item>
         <item name="themeToolbar">@color/sage</item>
